@@ -69,4 +69,4 @@ function XuLyThongTinServerDuocBat() {
     console.log("Listen !!!" , hostname , port );
 }
 
-server.listen( port, hostname,  XuLyThongTinServerDuocBat );
+server.listen( port,   XuLyThongTinServerDuocBat );
