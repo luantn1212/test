@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "020202-2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 020202-2.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luantn1212/luantn1212.git"
+  },
+  "author": "",
+  "license": "ISC"
+  
+
+}
